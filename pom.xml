@@ -7,6 +7,11 @@
     <groupId>com.pluralsight.goncal</groupId>
     <artifactId>bookstore-back</artifactId>
     <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
 Making some changes here
 Bad changes added
+=======
+
+
+>>>>>>> parent of 6c04c56... 2nd commit
 </project>
